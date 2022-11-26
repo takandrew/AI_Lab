@@ -33,6 +33,7 @@ bld/
 [Ll]ogs/
 
 /catboost_info/
+.ipynb_checkpoints/
 
 # Visual Studio 2015/2017 cache/options directory
 .vs/
